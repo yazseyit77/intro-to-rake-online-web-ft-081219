@@ -38,5 +38,5 @@ end
 
 desc 'drop into the pry console'
 task :console => :environment do
-
+  Pry.start
 end
