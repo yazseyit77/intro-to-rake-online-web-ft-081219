@@ -19,3 +19,5 @@ desc 'outputs hello to the terminal'
     puts "hola de Rake!"
   end
 end
+
+namespace :db do
