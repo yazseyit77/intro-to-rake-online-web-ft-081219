@@ -39,4 +39,4 @@ end
 desc 'drop into the pry console'
 task :console => :environment do
 
-end 
+end
