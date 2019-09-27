@@ -30,3 +30,5 @@ desc 'migrate changes to your database'
     Student.create_table
   end
 end
+
+namespace :db do
